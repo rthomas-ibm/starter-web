@@ -1,3 +1,7 @@
 This is some text that I am using for a placeholder. This is for a hit course.
 
 Adding more lines for testing and extra commits.
+
+Another addition of more text.
+
+4th addition of new text.
