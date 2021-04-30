@@ -9,4 +9,6 @@ This is an example intro
 
 ## Deployment
 
+This is a simple web project
+
 ## How to contribute
