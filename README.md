@@ -12,3 +12,5 @@ This is an example intro
 This is a simple web project
 
 ## How to contribute
+
+2014 Git.training
