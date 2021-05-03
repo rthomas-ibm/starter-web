@@ -17,4 +17,4 @@ This is a simple web project
 
 Please fork this repository
 
-2014 Git.training
+2014 Git.training. All rights reserved
