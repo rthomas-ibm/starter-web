@@ -13,4 +13,7 @@ This is a simple web project
 
 ## How to contribute
 
+
+Please fork this repository
+
 2014 Git.training
