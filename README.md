@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project. Adding a line for example,
-more changes from myfeatur branch
+more changes from myfeatur branch. Updating line after stash
 
 ## Introduction
 This is an example intro
