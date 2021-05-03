@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is a simple website project. Adding a line for example
+This is a simple website project. Adding a line for example,
+more changes from myfeatur branch
 
 ## Introduction
 This is an example intro
